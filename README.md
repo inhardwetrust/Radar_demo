@@ -2,13 +2,15 @@
 
 # Experimental Radar System
 
+<<<<<<< HEAD
 A Zynq-based experimental radar platform combining RF hardware, FPGA data acquisition, embedded firmware, high-speed data streaming, host-side processing, visualization, and field testing. Short demonstration videos are available on LinkedIn:
 1. [Radar demonstration — Video 1](https://www.linkedin.com/posts/inhardwetrust_embeddedsystems-radar-dataacquisition-ugcPost-7486320140091953152-lGaw/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvFVyABfNqGFh66NaA-U5veZQf_8hqvCkg)
 2. [Radar demonstration — Video 2](https://www.linkedin.com/posts/inhardwetrust_embeddedsystems-radar-dataacquisition-ugcPost-7486319785337716736-4Fbc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvFVyABfNqGFh66NaA-U5veZQf_8hqvCkg).
 
----
 
----
+A Zynq-based experimental radar platform combining RF hardware, FPGA data acquisition, embedded firmware, high-speed data streaming, host-side processing, visualization, and field testing.
+
+
 
 ## 1. System Intro
 
